@@ -1,0 +1,16 @@
+
+html,body{height:100%}
+html{overflow-y:auto}
+body{font:50px arial;text-align:;background:#fff}
+body,p,form,ul,li{margin:0;padding:0;list-style:none}
+body,form,#fm{position:relative}
+td{text-align:left}
+img{border:0}
+a{color:#00c}
+a:active{color:#f60}
+input{border:0;padding:0}
+
+
+/*header*/
+html{color: #333;font-size: 20px}
+/*end_header*/
