@@ -17,5 +17,5 @@ table { border-collapse:collapse; border-spacing:0; }
 
 /*header*/
 html{color: #333;font-size: 20px;background:#B5D7E9;height:100%;width:100%;}
-body{ background:url(cat.svg) no-repeat;}
+body{ background:url(cat.svg) no-repeat;height:100%;width:100%;}
 /*end_header*/
